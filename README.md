@@ -2,6 +2,8 @@
 
 This is a text-based monster fighting game inspired by the role-playing game project from [freeCodeCamp's JavaScript curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-javascript-by-building-a-role-playing-game). It includes some modifications and enhancements made by me.
 
+[![wakatime](https://wakatime.com/badge/user/b0da6dba-e0b5-4ab0-814a-b13bb1500da8/project/e684acce-8836-49e2-97d2-0a38fbedce39.svg)](https://wakatime.com/badge/user/b0da6dba-e0b5-4ab0-814a-b13bb1500da8/project/e684acce-8836-49e2-97d2-0a38fbedce39)
+
 ## Table of Contents
 
 -   [Features](#features)
