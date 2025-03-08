@@ -4,7 +4,6 @@ This is a text-based monster fighting game inspired by the role-playing game pro
 
 ## Table of Contents
 
--   [About](#about)
 -   [Features](#features)
 -   [How to Play](#how-to-play)
 -   [Gameplay](#gameplay)
@@ -12,12 +11,8 @@ This is a text-based monster fighting game inspired by the role-playing game pro
 -   [Technologies Used](#technologies-used)
 -   [Contributing](#contributing)
 -   [License](#license)
--   [Contact](#contact)
 
-## About
 
-This game is a simple, text-based adventure where you battle monsters to gain experience and improve your character. It's designed to be played in a terminal or command prompt.
-Althought there have been some changes made by me. Play the game to find out what.
 
 ## Features
     -   Character progression.
@@ -48,7 +43,7 @@ The game presents you with choices through text prompts. You'll be able to:
     -   Gain experience points (XP) from battles.
     -   Level up your character to increase stats.
     -   Collect items and manage your inventory.
-    -   Ultimately, defeat the dragon (or achieve another win condition).
+    -   Ultimately, defeat the dragon.
 
 ## Technologies Used
 
@@ -66,3 +61,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
     4.  Commit your changes: `git commit -am 'Add some feature'`
     5.  Push to the branch: `git push origin feature/your-feature-name`
     6.  Submit a pull request.
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details. .
+
