@@ -63,5 +63,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
     6.  Submit a pull request.
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details. .
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](./LICENSE) file for details.
 
